@@ -1,4 +1,4 @@
-# Text-Analysis-Algorithms
+# String-Searching-Algorithm
 Dr.Khadangi Algorithm analysis
 
 # Collaborators
